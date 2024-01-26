@@ -1,10 +1,10 @@
 import React from 'react'
 import '../components/Player.css';
-import next from '../playerbuttons/Next.png';
-import play from '../playerbuttons/Play.png';
-import repeat from '../playerbuttons/Repeat.png';
-import shuffle from '../playerbuttons/Shuffle.png';
-import previous from '../playerbuttons/Previous.png';
+import next from '../playerbuttons/next.png';
+import play from '../playerbuttons/play.png';
+import repeat from '../playerbuttons/rept.png';
+import shuffle from '../playerbuttons/shuf.png';
+import previous from '../playerbuttons/prev.png';
 
 export default function Player() {
   return (

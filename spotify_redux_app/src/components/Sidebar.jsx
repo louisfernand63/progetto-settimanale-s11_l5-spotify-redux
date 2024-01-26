@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../logo/Spotify_Logo.png';
+import logo from '../data_logo/Spotify_Logo.png';
 import '../components/Sidebar.css';
 import { Link } from 'react-router-dom';
 
